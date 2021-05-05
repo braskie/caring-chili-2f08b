@@ -10,10 +10,7 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Our purpose is to give quality care and education that\_empowers women and couples with the knowledge of their fertility, to then enhance their reproductive health.\n"
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
