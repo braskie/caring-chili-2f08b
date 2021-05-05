@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Purpose
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: We'll help you with lots of stuff
         content: "Our purpose is to give quality care and education that\_empowers women and couples with the knowledge of their fertility, to then enhance their reproductive health.\n"
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
