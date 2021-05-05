@@ -10,7 +10,7 @@ sections:
       couples in the Madison, WI area as well as anywhere in the world through
       the Online Program.
     actions:
-      - label: Try Free
+      - label: Register
         url: /pricing
         style: primary
       - label: Learn More
