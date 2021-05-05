@@ -79,7 +79,7 @@ params:
     has_social: true
     social_links:
       - label: Instagram
-        url: 'https://twitter.com/'
+        url: 'https://instagram.com/'
         style: link
         has_icon: true
         icon: twitter
