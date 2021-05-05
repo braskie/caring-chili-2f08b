@@ -12,7 +12,22 @@ sections:
       - title: Single Women
         subtitle: For those trying to understand things!
         title_align: left
-        content: "###\n\n$235\n\n*   Full Creighton Model Instruction\n\n*   8 Follow-ups over the course of 1 year\n\n*   Unlimited calls, emails or texts with questions\n\n*   Referral letter to NaProTechnology Medical Consultant.\_\n"
+        content: |
+          $19
+
+
+
+          per month, billed yearly
+
+          *   Et semper leo mattis orci conubia congue
+
+          *   Quisque eleifend imperdiet tortor
+
+          *   Elementum eu rhoncus, volutpat
+
+          *   Fringilla diam magnis libero lacinia
+
+          *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - label: Start with Personal
