@@ -17,11 +17,7 @@ sections:
 
           ### $235
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          Full Creighton Model Instruction (8 Follow-ups over the course of 1 year), Unlimited calls, emails or texts with questions & Referral letter to NaProTechnology Medical Consultant. 
         content_align: left
         actions:
           - label: Start with Personal
