@@ -18,7 +18,7 @@ sections:
           ### $235
 
           * Full Creighton Model Instruction
-          * 8 Follow-ups over the course of 1 year
+          * 8 Follow-ups over 1 year
           * Unlimited calls, emails or texts with questions
           * Referral letter to NaProTechnology Medical Consultant. 
         content_align: left
