@@ -84,7 +84,7 @@ sections:
   - type: features_section
     features:
       - title: “I'm the best at Fertility Care”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Kristin Dvorsky, Founder and FertilityCare Practioner'
         image: images/circle-cropped.png
         image_alt: Brandon Guidelines
         media_position: right
