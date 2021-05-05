@@ -33,7 +33,6 @@ sections:
         title_align: left
         content: |-
           ---
-
           ### $350
 
           per month, billed yearly
