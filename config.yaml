@@ -85,20 +85,6 @@ params:
         icon: instagram
         icon_position: center
         new_window: true
-      - label: YouTube
-        url: 'https://www.youtube.com/'
-        style: link
-        has_icon: true
-        icon: youtube
-        icon_position: center
-        new_window: true
-      - label: Vimeo
-        url: 'https://vimeo.com/'
-        style: link
-        has_icon: true
-        icon: vimeo
-        icon_position: center
-        new_window: true
     content: '&copy; Faustina Fertility Care Center LLC.. All rights reserved.'
   domain: 'https://caring-chili-2f08b.netlify.app'
 taxonomies:
