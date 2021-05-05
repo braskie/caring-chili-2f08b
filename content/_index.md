@@ -92,6 +92,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     has_border: false
+    title: Title
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
