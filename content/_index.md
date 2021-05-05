@@ -167,12 +167,13 @@ sections:
     title: Testimonials
     subtitle: People like us!
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          I always feel supported and empowered after my sessions. I am not
+          afraid to ask questions because I know that Kristin is happy to answer
+          them.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Emily Decker,** *Person we helped*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
