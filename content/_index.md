@@ -44,7 +44,7 @@ sections:
         image: images/pexels-amina-filkins-5427978.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
       - title: The Big Title For the Feature
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
