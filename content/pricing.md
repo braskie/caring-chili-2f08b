@@ -29,7 +29,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Engaged Couples
-        subtitle: Optional subtitle
+        subtitle: For the newlyweds
         title_align: left
         content: |-
           ---
