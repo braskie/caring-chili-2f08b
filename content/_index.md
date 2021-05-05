@@ -83,7 +83,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: “I'm the best at Fertility Care”
+      - title: “I'm the best at Fertility Care!”
         subtitle: 'Kristin Dvorsky, Founder and FertilityCare Practioner'
         image: images/circle-cropped.png
         image_alt: Brandon Guidelines
