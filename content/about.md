@@ -15,7 +15,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - title: Section Title Two
+      - title: The Creighton Model System
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: "The Creighton Model System (CrMS) is a scientifically developed standardized system to assist women and couples in understanding their fertility. CrMS uses a standardized observation technique and charting of biological markers (all external observations) that are essential to a woman’s health and fertility. Women will observe days of bleeding, mucus, and dry days with an observation routine that takes less than 30 seconds. These markers tell the woman or couple when they are naturally fertile and infertile to effectively use the model to either\_achieve or avoid pregnancy.\n"
         image: images/about-2.jpg
