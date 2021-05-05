@@ -7,7 +7,7 @@ params:
   mode: light
   base_font: serif
   header:
-    title: DIY
+    title: Faustina Care
     logo: 'images/cropped-faustina_logo_onlypng[1].png'
     logo_alt: DIY logo
     has_primary_nav: true
