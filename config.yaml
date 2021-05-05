@@ -1,7 +1,7 @@
 title: FaustinaCare
 baseURL: /
 params:
-  layout_type: full-width
+  layout_type: boxed
   style: classic
   palette: red
   mode: light
