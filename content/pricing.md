@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Single Women
-        subtitle: Optional subtitle
+        subtitle: For those trying to understand things!
         title_align: left
         content: |-
           ---
