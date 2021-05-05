@@ -165,7 +165,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonials
-    subtitle: Grid Section Example
+    subtitle: People like us!
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
