@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Creighton Model System
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Faustina FertilityCare Center teaches the Creighton Model FertilityCare
+      System (a Fertility Awareness Based Method) currently serving women and
+      couples in the Madison, WI area as well as anywhere in the world through
+      the Online Program.
     actions:
       - label: Try Free
         url: /pricing
