@@ -85,7 +85,7 @@ params:
         icon: instagram
         icon_position: center
         new_window: true
-    content: '&copy; Faustina Fertility Care Center LLC.. All rights reserved.'
+    content: '&copy; Faustina Fertility Care Center LLC. All rights reserved.'
   domain: 'https://caring-chili-2f08b.netlify.app'
 taxonomies:
   stub: stub
