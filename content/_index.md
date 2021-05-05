@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Creighton Model System
-    subtitle: Optional hero section subtitle
+    title: Faustina Fertility Care Center
+    subtitle: Creighton Model System
     content: >
       Faustina FertilityCare Center teaches the Creighton Model FertilityCare
       System (a Fertility Awareness Based Method) currently serving women and
