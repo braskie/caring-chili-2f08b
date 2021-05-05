@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Purpose
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: "Our purpose is to give quality care and education that\_empowers women and couples with the knowledge of their fertility, to then enhance their reproductive health.\n"
         image: images/about-5.jpg
