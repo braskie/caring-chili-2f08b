@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: Learning the system
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
