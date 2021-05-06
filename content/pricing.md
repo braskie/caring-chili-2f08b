@@ -56,13 +56,7 @@ sections:
           ---
           ### $515
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          Full Creighton Model Instruction (8 Follow-ups over the course of 1 year), Unlimited calls, emails or texts with questions, Referral letter to NaProTechnology Medical Consultant, Organic Conceptions Program, Two 30 minute Organic Conceptions Program Appointments, Organic Conceptions Journal & Organic Conceptions Workbook. 	
         content_align: left
         actions:
           - label: Start with Business
