@@ -14,7 +14,7 @@ sections:
     show_recent: false
     category: data/categories/general.json
     show_date: true
-    show_categories: true
+    show_categories: false
     show_author: true
     show_excerpt: true
     show_image: true
