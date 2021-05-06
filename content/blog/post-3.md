@@ -3,7 +3,7 @@ title: Cur Ipse Pythagoras Et Aegyptum Lustravit
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '0002-05-28'
+date: '0202-05-28'
 author: data/team/gustav-purpleson.json
 categories:
   - data/categories/general.json
