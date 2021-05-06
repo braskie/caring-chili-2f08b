@@ -4,7 +4,12 @@ subtitle: lorem-ipsum
 date: '2021-05-06'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  I am not going to sugarcoat it, charting postpartum is difficult! Even as a
+  Practitioner myself, I needed another set of eyes on my chart just to make
+  sure. When you’re not back into cycles and hormones are going crazy plus a
+  lack of sleep, it makes charting very challenging. (This is why I always
+  recommend seeing your Practitioner again during the postpartum phase!)
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
