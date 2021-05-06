@@ -75,15 +75,11 @@ sections:
         title_align: left
         content: |-
           ---
-          ### $515
+          ### $360
 
           * Full Creighton Model Instruction
           * 8 Follow-ups over the course of 1 year
-          * Unlimited calls, emails or texts with questions
-          * Referral letter to NaProTechnology Medical Consultant
-          * Organic Conceptions Program
-            * Two 30 minute Organic Conceptions Program Appointments
-            * Organic Conceptions Journal & Organic Conceptions Workbook. 	
+          * Unlimited calls, emails or texts with questions.	
         content_align: left
         actions:
           - label: Start with Business
