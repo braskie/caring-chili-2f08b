@@ -4,7 +4,6 @@ subtitle: '7 IUI’S, 3 HSG’S, 3 Surgeries, 4.5 Years of Infertility'
 date: '2019-11-21'
 author: data/team/dianne-ameter.json
 categories:
-  - data/categories/tutorials.json
   - data/categories/general.json
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
