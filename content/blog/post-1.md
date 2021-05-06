@@ -1,7 +1,5 @@
 ---
-title: >-
-  7 IUI’S, 3 HSG’S, 3 SURGERIES, 4.5 YEARS OF INFERTILITY- FINALLY ANSWERS WITH
-  NAPROTECHNOLOGY
+title: FINALLY ANSWERS WITH NAPROTECHNOLOGY
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
