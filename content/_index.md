@@ -295,7 +295,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
       value: Faustina FertilityCare
     - name: 'twitter:description'
