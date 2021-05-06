@@ -98,12 +98,17 @@ sections:
       - title: Is it easy to learn the Creighton Model System?
         content: "It is relatively easy. Learning \_the Creighton Model System is a skill, like any skill after a bit of practice, it does become easy!\_The follow-ups with a trained FertilityCare Practitioner provide the couple with the confidence needed to quickly learn the System. The Creighton Model is not designed to be learned from a relative, friend, book or the information from this website.\_\n"
       - title: Viverra nam libero justo laoreet sit?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          All methods of natural family planning revolve around fertility
+          awareness and tracking particular signs from a woman’s body. The
+          Creighton Model System is a mucus-only method using standardized
+          descriptions that help women identify their days of fertility and
+          infertility. It is particularly helpful to women who are
+          breastfeeding, dealing with irregular cycles, and having trouble
+          conceiving. With NaProTechnology, the Creighton Model System empowers
+          clients to be their own advocate regarding their reproductive health
+          and have meaningful discussions with their doctors about any
+          abnormalities that they may be experiencing.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
