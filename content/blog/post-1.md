@@ -56,3 +56,5 @@ The next day I woke up with what felt like the worst flu of my life! After calli
 The OB/GYN decided to put me on letrozole to try and help us get pregnant, 6 weeks after the CMV diagnosis. Still nothing. One of my friends went to a fertility clinic close to our home so I self referred and next thing I knew we were there.
 
 First thing we found out, was their was no way we should be even attempting to get pregnant right now because CMV can cause major birth defects. Thank GOD we didn’t get pregnant then!! We had to wait almost 6 months, from the diagnosis, before we were finally allowed to start trying to get pregnant. During that time, my husband had his semen analysis done, which was normal! They drew a bunch of labs, put me through more ultrasounds, and decided letrozole was the best place to restart trying. We opted for 3 months of letrezole and intercourse, as infertility treatments are INSANELY EXPENSIVE!
+
+> Until someone goes through infertility they never truly understand. It’s not just a cold, or a broken bone. Month after month we’re mourning something that isn’t true, someone who isn’t there.
