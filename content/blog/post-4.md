@@ -3,7 +3,7 @@ title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
-date: '2020-05-30'
+date: '0002-05-30'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/tutorials.json
