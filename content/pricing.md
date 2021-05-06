@@ -84,6 +84,13 @@ sections:
     grid_items:
       - title: Is it easy to learn the Creighton Model System?
         content: "It is relatively easy. Learning \_the Creighton Model System is a skill, like any skill after a bit of practice, it does become easy!\_The follow-ups with a trained FertilityCare Practitioner provide the couple with the confidence needed to quickly learn the System. The Creighton Model is not designed to be learned from a relative, friend, book or the information from this website.\_\n"
+      - title: Do I have to be Catholic or religious to use this System?
+        content: >
+          No, the founders did establish the system teaching principles within a
+          moral context but the system is for any woman! It serves any woman no
+          matter their background or religious affiliation. The beauty of the
+          system is its scientific foundation, based on over 40 years of
+          research on the human reproductive system.
       - title: Why do I need to attend Follow-up Sessions to learn this method?
         content: >
           The Creighton Model FertilityCare System is incredibly specific. It is
@@ -111,13 +118,6 @@ sections:
           clients to be their own advocate regarding their reproductive health
           and have meaningful discussions with their doctors about any
           abnormalities that they may be experiencing.
-      - title: Do I have to be Catholic or religious to use this System?
-        content: >
-          No, the founders did establish the system teaching principles within a
-          moral context but the system is for any woman! It serves any woman no
-          matter their background or religious affiliation. The beauty of the
-          system is its scientific foundation, based on over 40 years of
-          research on the human reproductive system.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
