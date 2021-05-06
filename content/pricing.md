@@ -97,7 +97,9 @@ sections:
           chart successfully.
       - title: Is it easy to learn the Creighton Model System?
         content: "It is relatively easy. Learning \_the Creighton Model System is a skill, like any skill after a bit of practice, it does become easy!\_The follow-ups with a trained FertilityCare Practitioner provide the couple with the confidence needed to quickly learn the System. The Creighton Model is not designed to be learned from a relative, friend, book or the information from this website.\_\n"
-      - title: Viverra nam libero justo laoreet sit?
+      - title: >-
+          How is the Creighton model different from other methods of natural
+          family planning?
         content: >
           All methods of natural family planning revolve around fertility
           awareness and tracking particular signs from a woman’s body. The
