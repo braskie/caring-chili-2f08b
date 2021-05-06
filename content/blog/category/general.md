@@ -43,7 +43,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in General
+  title: Fertility Stories - Faustina FertilityCare
   description: This is the author archive page
   extra:
     - name: 'og:type'
