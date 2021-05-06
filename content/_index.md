@@ -299,7 +299,9 @@ seo:
     - name: 'twitter:title'
       value: Faustina FertilityCare
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Faustina FertilityCare Center teaches the Creighton Model FertilityCare
+        System
     - name: 'twitter:image'
       value: /images/brooke-cagle-Y3L_ZQaw9Wo-unsplash.jpg
       relativeUrl: true
