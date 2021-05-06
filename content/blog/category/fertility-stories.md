@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: data/categories/general.json
+    category: data/categories/fertility-stories.json
     show_date: true
     show_categories: false
     show_author: true
