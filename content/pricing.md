@@ -96,10 +96,7 @@ sections:
           then becomes more spread out once you have learned how to observe and
           chart successfully.
       - title: Is it easy to learn the Creighton Model System?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "It is relatively easy. Learning \_the Creighton Model System is a skill, like any skill after a bit of practice, it does become easy!\_The follow-ups with a trained FertilityCare Practitioner provide the couple with the confidence needed to quickly learn the System. The Creighton Model is not designed to be learned from a relative, friend, book or the information from this website.\_\n"
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
