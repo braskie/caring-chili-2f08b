@@ -118,8 +118,6 @@ sections:
           matter their background or religious affiliation. The beauty of the
           system is its scientific foundation, based on over 40 years of
           research on the human reproductive system.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: "| Method Effectiveness | 99.5% |\r\n| Use Effectiveness | 96.8% |\r\n*\\*Journal of Reproductive Medicine, June 1998*\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
