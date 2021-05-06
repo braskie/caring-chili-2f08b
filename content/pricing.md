@@ -111,7 +111,7 @@ sections:
           clients to be their own advocate regarding their reproductive health
           and have meaningful discussions with their doctors about any
           abnormalities that they may be experiencing.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Do I have to be Catholic or religious to use this System?
         content: >
           No, the founders did establish the system teaching principles within a
           moral context but the system is for any woman! It serves any woman no
