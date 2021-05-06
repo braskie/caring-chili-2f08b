@@ -54,7 +54,7 @@ sections:
         title_align: left
         content: |-
           ---
-          ### $350
+          ### $515
 
           per month, billed yearly
 
