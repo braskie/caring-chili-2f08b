@@ -2,7 +2,7 @@
 title: Fertility Stoires
 sections:
   - type: hero_section
-    title: General
+    title: Fertility Stoires
     subtitle: The optional subtitle
     align: center
     padding_top: medium
