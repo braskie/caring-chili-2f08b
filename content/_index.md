@@ -279,7 +279,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Stackbit DIY Theme
+  title: Faustina FertilityCare
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
