@@ -83,10 +83,18 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The Creighton Model FertilityCare System is incredibly specific. It is
+          tailor-made for each woman’s body and reproductive category. The
+          Introductory Session gives an overview of the Creighton Model, reviews
+          basic anatomy and physiology, goes through charting situations, and
+          explains the effectiveness for achieving and avoiding pregnancy.
+          However, in order to learn the system and use it well, individual
+          guidance and instruction of a FertilityCare Practitioner is essential.
+          The Follow-up schedule starts off with frequent appointments initially
+          in order to provide the necessary support that each client needs, it
+          then becomes more spread out once you have learned how to observe and
+          chart successfully.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
