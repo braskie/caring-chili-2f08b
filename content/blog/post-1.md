@@ -1,5 +1,5 @@
 ---
-title: FINALLY ANSWERS WITH NAPROTECHNOLOGY
+title: Finally Answers with NaProTechnology
 subtitle: '7 IUI’S, 3 HSG’S, 3 Surgeries, 4.5 Years of Infertility'
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
