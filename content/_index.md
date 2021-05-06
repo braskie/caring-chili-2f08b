@@ -301,7 +301,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/brooke-cagle-Y3L_ZQaw9Wo-unsplash.jpg
       relativeUrl: true
 layout: advanced
 ---
