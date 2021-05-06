@@ -8,7 +8,7 @@ params:
   base_font: serif
   header:
     title: Faustina Care
-    logo: 'images/faustina_side[1].png'
+    logo: 'images/cropped-faustina_logo_onlypng[1].png'
     logo_alt: Faustina Fertility Care Logo
     has_primary_nav: true
     primary_nav_links:
