@@ -52,17 +52,7 @@ sections:
       - title: Trying to Conceive
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-          ### $515
-
-          * Full Creighton Model Instruction
-          * 8 Follow-ups over the course of 1 year
-          * Unlimited calls, emails or texts with questions
-          * Referral letter to NaProTechnology Medical Consultant
-          * Organic Conceptions Program
-            * Two 30 minute Organic Conceptions Program Appointments
-            * Organic Conceptions Journal & Organic Conceptions Workbook. 	
+        content: "---\n### $515\n\n* Full Creighton Model Instruction\n* 8 Follow-ups over the course of 1 year\n* Unlimited calls, emails or texts with questions\n* Referral letter to NaProTechnology Medical Consultant\n* Organic Conceptions Program\n  * Two 30 minute Organic Conceptions Program Appointments\n  * Organic Conceptions Journal & Organic Conceptions Workbook. \t"
         content_align: left
         actions:
           - label: Start with Business
@@ -73,13 +63,7 @@ sections:
       - title: The Basics
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-          ### $360
-
-          * Full Creighton Model Instruction
-          * 8 Follow-ups over the course of 1 year
-          * Unlimited calls, emails or texts with questions.	
+        content: "---\n### $360\n\n* Full Creighton Model Instruction\n* 8 Follow-ups over the course of 1 year\n* Unlimited calls, emails or texts with questions.\t"
         content_align: left
         actions:
           - label: Start with Business
@@ -87,7 +71,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
