@@ -119,7 +119,41 @@ sections:
           system is its scientific foundation, based on over 40 years of
           research on the human reproductive system.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: "| Method Effectiveness | 99.5% |\r\n| Use Effectiveness | 96.8% |\r\n*\\*Journal of Reproductive Medicine, June 1998*\n"
+        content: "<div class="responsive-table">
+  <table>
+      <caption>Table with thead, tfoot, and tbody</caption>
+    <thead>
+      <tr>
+        <th>Header content</th>
+        <th>Header content</th>
+        <th>Header content</th>
+        <th>Header content</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Body content</td>
+        <td>Body content</td>
+        <td>Body content</td>
+        <td>Body content</td>
+      </tr>
+      <tr>
+        <td>Body content</td>
+        <td>Body content</td>
+        <td>Body content</td>
+        <td>Body content</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Footer content</td>
+        <td>Footer content</td>
+    <td>Footer content</td>
+    <td>Footer content</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
