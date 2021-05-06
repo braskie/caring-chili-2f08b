@@ -20,6 +20,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: data/team/kristin-dvorsky.json
 ---
 ## Lorem ipsum
 
