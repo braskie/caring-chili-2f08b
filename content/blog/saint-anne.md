@@ -1,6 +1,5 @@
 ---
 title: A Miracle Through the Intercession of Saint Anne
-subtitle: lorem-ipsum
 date: '2021-05-06'
 categories: []
 tags: []
