@@ -280,7 +280,6 @@ sections:
     background_color: none
 seo:
   title: Faustina FertilityCare
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
