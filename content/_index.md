@@ -288,7 +288,9 @@ seo:
       value: Faustina FertilityCare
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Faustina FertilityCare Center teaches the Creighton Model FertilityCare
+        System
       keyName: property
     - name: 'og:image'
       value: /images/brooke-cagle-Y3L_ZQaw9Wo-unsplash.jpg
