@@ -52,7 +52,17 @@ sections:
       - title: Trying to Conceive
         subtitle: Optional subtitle
         title_align: left
-        content: "***\n\n### $515\n\nper month, billed yearly\n\n*   Full Creighton Model Instruction\n*   8 Follow-ups over the course of 1 year\n*   Unlimited calls, emails or texts with questions\n*   Referral letter to NaProTechnology Medical Consultant\n*   [Organic Conceptions Program](https://www.organic-conceptions.com/)\n*   Two 30 minute Organic Conceptions Program Appointments\n*   Organic Conceptions Journal & Organic Conceptions Workbook.\_\n\n\n"
+        content: |-
+          ---
+          ### $350
+
+          per month, billed yearly
+
+          * Et semper leo mattis orci conubia congue
+          * Quisque eleifend imperdiet tortor
+          * Elementum eu rhoncus, volutpat
+          * Fringilla diam magnis libero lacinia
+          * Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - label: Start with Business
