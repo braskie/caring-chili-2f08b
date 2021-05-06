@@ -95,7 +95,7 @@ sections:
           in order to provide the necessary support that each client needs, it
           then becomes more spread out once you have learned how to observe and
           chart successfully.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Is it easy to learn the Creighton Model System?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
