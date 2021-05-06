@@ -70,7 +70,7 @@ sections:
             url: /features
             style: primary
         actions_align: left
-        actions_width: auto
+        actions_width: full-width
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
