@@ -78,7 +78,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: primary
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
