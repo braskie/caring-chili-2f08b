@@ -6,8 +6,9 @@ author: data/team/dianne-ameter.json
 categories:
   - data/categories/general.json
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Countless injections, ultrasounds, and pills, 7 IUI’s, 3 HSG’s, a
+  sonohysterogram, and 3 surgeries all make for 4.5 years of infertility with
+  little answers until we found NaPro, the Creighton Model and Kristin.
 thumb_image: images/pexels-ketut-subiyanto-4308170.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/pexels-ketut-subiyanto-4308170.jpg
