@@ -60,7 +60,7 @@ params:
       - label: News
         url: /blog/category/news
         style: link
-      - label: General
+      - label: Fertility-Stories
         url: /blog/category/general
         style: link
       - label: Tutorials
