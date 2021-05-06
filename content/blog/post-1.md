@@ -4,7 +4,7 @@ subtitle: '7 IUI’S, 3 HSG’S, 3 Surgeries, 4.5 Years of Infertility'
 date: '2019-11-21'
 author: data/team/kristin-dvorsky.json
 categories:
-  - data/categories/general.json
+  - data/categories/fertility-stories.json
 excerpt: >-
   Countless injections, ultrasounds, and pills, 7 IUI’s, 3 HSG’s, a
   sonohysterogram, and 3 surgeries all make for 4.5 years of infertility with
