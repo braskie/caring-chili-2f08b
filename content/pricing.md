@@ -112,11 +112,12 @@ sections:
           and have meaningful discussions with their doctors about any
           abnormalities that they may be experiencing.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          No, the founders did establish the system teaching principles within a
+          moral context but the system is for any woman! It serves any woman no
+          matter their background or religious affiliation. The beauty of the
+          system is its scientific foundation, based on over 40 years of
+          research on the human reproductive system.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
