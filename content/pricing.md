@@ -82,7 +82,7 @@ sections:
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: Why do I need to attend Follow-up Sessions to learn this method?
         content: >
           The Creighton Model FertilityCare System is incredibly specific. It is
           tailor-made for each woman’s body and reproductive category. The
