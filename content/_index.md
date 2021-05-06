@@ -291,7 +291,7 @@ seo:
       value: The preview of the DIY theme
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/brooke-cagle-Y3L_ZQaw9Wo-unsplash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
